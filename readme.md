@@ -32,6 +32,7 @@ The signal line serves as a trigger for buy and sell signals. When the signal li
 
 ## Demonstration
 ### Simple Moving Average
-
+![SMA Demonstration](images/sma-demonstration.gif)
 
 ### Exponential Moving Average
+![EMA Demonstration](images/ema-demonstration.gif)
